@@ -58,3 +58,5 @@ compress_html:
 
 plugins:
   - jemoji
+
+highlighter: rouge
