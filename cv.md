@@ -4,15 +4,16 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 # Nguyen Thanh Tuyen
-* Email: hi@tuyentit.com | tuyennt.cv@gmail.com  
+* Email: hi@tuyentit.com (tuyennt.cv@gmail.com)
 * Phone: 098 190 60 93  
 * Address: Hanoi, Vietnam
 
-## OBJECTIVES
+#### OBJECTIVES
 1. Build valuable applications.
 2. Become a professional, experienced project manager.
+<br>
 
-## SKILLS
+#### SKILLS
 <div>
     <div class="row">
         <div class="col-sm-2">
@@ -115,16 +116,17 @@ permalink: /cv/
         </div>
     </div>
 </div>
+<br>
 
-## WORK EXPERIENCE
+#### WORK EXPERIENCE
 
-#### Team Leader at NTQ Solution
+##### Team Leader at NTQ Solution
 &nbsp;&nbsp;&nbsp;&nbsp;*December 2017 - Present*
 >`Deliver outsourcing enterprise systems to the Japanese clients.`  
 The projects I am involved in are short-term projects, requiring fast delivery and good quality.  
 At present, my team have successfully delivered 3 projects.
 
-#### .NET Developer at Massgenie
+##### .NET Developer at Massgenie
 &nbsp;&nbsp;&nbsp;&nbsp;*June 2016 - December 2017*
 > `Building components responsible for helping massgenie.com interact with sellers and 3rd parties.`  
 Three core components we build are:  
@@ -132,25 +134,27 @@ Three core components we build are:
     2. Public APIs: provides REST APIs for 3rd parties.  
     3. Background workers & services: help process data in background.
 
-#### .NET Developer at BKIndex
+##### .NET Developer at BKIndex
 &nbsp;&nbsp;&nbsp;&nbsp;*June 2013 - June 2016*
 > `Build small information management systems. Engage in all product life cycles.`  
     It's a great thing to say, most projects fail or fail after 1 years. These failures are my first experience in software development, which has caused me a lot of pain.
     But I learned a lot from them and became stronger today.
+<br>
 
-## EDUCATION
+#### EDUCATION
 **Hanoi University of Science and Technology - hust.edu.vn**  
 Major: School of Applied Mathematics and Informatics (sami.hust.edu.vn)  
 CPA: 2.91/4  
 2011 - 2016  
 **High School for Gifted Students - hsgs.edu.vn**  
 2008 - 2011  
+<br>
 
-## INTERESTS
+#### INTERESTS
 Soccer  
 Reading book  
-
-## PROJECTS
+ 
+#### PROJECTS
 `1. Sale System`
 <table class="table table-bordered ">
   <tbody>
