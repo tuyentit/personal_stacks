@@ -41,8 +41,8 @@ urls:
     - text: My CV
       url: /cv
 
-    - text: My wife's CV
-      url: /wife-cv
+    - text: Dang Le Hai Yen
+      url: /danglehaiyen
 
 url: "https://tuyentit.com"
 baseurl: ""

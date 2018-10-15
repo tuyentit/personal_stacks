@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /wife-cv/
+permalink: /danglehaiyen/
 ---
 
 #### GENERAL INFORMATION 
