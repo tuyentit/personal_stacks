@@ -41,13 +41,16 @@ urls:
     - text: My CV
       url: /cv
 
+    - text: My wife's CV
+      url: /wife-cv
+
 url: "https://tuyentit.com"
 baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
