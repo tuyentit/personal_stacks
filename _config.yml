@@ -5,7 +5,7 @@ github: https://github.com/tuyentit
 about: I am developer. Currently doing more in backend, focused in .NET.
 disqus_shortname: tuyentit
 #google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar2.png
+#avatar_url: /static/img/avatar.png
 
 enableTags: true
 tagarray: []
