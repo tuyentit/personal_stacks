@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 permalink: /danglehaiyen/
 ---
-
+[PDF Version][pdf]
 #### GENERAL INFORMATION 
 <blockquote>
     <div class="row">
@@ -105,3 +105,5 @@ My Dinh stadium, dancing, camping.
         </table>
     </div>
 </blockquote>
+
+[pdf]: https://drive.google.com/file/d/1GxbbOXEt4BkBFjQvlH1OnadH11PIsz--/view?usp=sharing
